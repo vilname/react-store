@@ -1,0 +1,10 @@
+.detail-page img{
+  width: 20rem;
+  height: 100%;
+}
+.detail-page{
+  display: flex;
+}
+.detail-page__info{
+  padding-left: 5rem;
+}

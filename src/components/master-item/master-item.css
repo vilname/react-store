@@ -1,0 +1,11 @@
+.master-item img{
+  /* width: 100%; */
+  height: 100%;
+}
+.master-item{
+  height: 120px;
+  margin-bottom: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
